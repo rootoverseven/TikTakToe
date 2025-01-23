@@ -1,0 +1,38 @@
+.boxes{
+    border: 2px solid rgb(16, 110, 165);
+}
+
+#box0{
+    border-top: none;
+    border-left: none;
+}
+#box1{
+    border-top: none;
+}
+#box2{
+    border-top: none;
+    border-right: none;
+}
+#box3{
+    border-left: none;
+}
+#box5{
+    border-right: none;
+}
+#box6{
+    border-bottom: none;
+    border-left: none;
+}
+#box7{
+    border-bottom: none;
+}
+#box8{
+    border-bottom: none;
+    border-right: none;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
